@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 
-'''
 # Problem 4, part c
 i = 0
 while i < 3:
@@ -15,7 +14,8 @@ while i < 3:
     print('inverse matrix:\n', inverse)
     print('product check:\n', product)
     i += 1
-'''
+
+    
 # Problem 5
 # part a
 pd.set_option('max_columns', None)  # show all the columns to easier compare
